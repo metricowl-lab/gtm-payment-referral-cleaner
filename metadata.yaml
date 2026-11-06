@@ -1,0 +1,5 @@
+homepage: "https://www.metricowl.co.uk/gtm-templates"
+documentation: "https://github.com/metricowl-lab/gtm-payment-referral-cleaner#readme"
+versions:
+  - sha: 09d501d0337ff002ac5b0928ec441eecd0b6ac2d
+    changeNotes: Initial release.
