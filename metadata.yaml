@@ -1,5 +1,10 @@
 homepage: "https://www.metricowl.co.uk/gtm-templates"
 documentation: "https://github.com/metricowl-lab/gtm-payment-referral-cleaner#readme"
 versions:
+  - sha: 8a45efd38de47978d2270ad26a2dbeca56dc8ed8
+    changeNotes: |-
+      Template name now starts with Metric Owl and says whether it's a tag or a variable.
+      Description links to the documentation and support page.
+      Licence copyright line filled in.
   - sha: 09d501d0337ff002ac5b0928ec441eecd0b6ac2d
     changeNotes: Initial release.
